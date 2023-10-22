@@ -14,6 +14,7 @@
 
 - Blog:  [zikin.org](https://zikin.org/)
 - More: [me.zikin.org/contact/](https://me.zikin.orgcontact/)
+- Contact Form [contact.zikin.org](https://contact.zikin.org)
 
 ## My PGP Public Key
 
