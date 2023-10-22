@@ -13,8 +13,10 @@
   > This email is hosted on Google Workspace, and the data will only be stored within the United States of America.
 
 - Blog:  [zikin.org](https://zikin.org/)
-- More: [me.zikin.org/contact/](https://me.zikin.orgcontact/)
+- About:  [me.zikin.org](https://me.zikin.org/)
 - Contact Form [contact.zikin.org](https://contact.zikin.org)
+- More: [me.zikin.org/contact/](https://me.zikin.orgcontact/)
+
 
 ## My PGP Public Key
 
