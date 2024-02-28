@@ -1,18 +1,16 @@
 <a href="#">
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Zikinn&show_icons=true&hide_border=true">
-</a>
 
-# Hi, I’m Zikin (they/them).
+# 👋 Hi, I’m Zikin (they/them)
 
-> I’m currently a 12th Grade student living in Beijing, and preparing to go to university in Canada in the fall of 2024. 
+I’m currently a 12th Grade student living in Beijing, and preparing to go to university in Canada in the fall of 2024. 
 
 ## Contact me
 
 - Email: [i@zikin.org](mailto:i@zikin.org)
 - Blog:  [zikin.org](https://zikin.org/)
-- About:  [me.zikin.org](https://me.zikin.org/)
+- About:  [zikin.me](https://zikin.me/)
+- Contact: [zikin.me/contact/](https://zikin.me/contact/)
 - Contact Form [contact.zikin.org](https://contact.zikin.org)
-- More: [me.zikin.org/contact/](https://me.zikin.org/contact/)
 
 
 ## My PGP Public Key
@@ -41,6 +39,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Zikinn&show_icons=true&hide_border=true">
+</a>
 
 -->
 
